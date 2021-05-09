@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+     <style>
+        table, th,td{
+         border;1px solid black;
+         border-collapse;collapse;
+         }
+         th,td{
+           padding;20px;
+           text-align;centre;
+           }
+           </style>
+           
+           
+       </head>
+       <body>
+         <h1> HTML Links</h1>
+         <p><a hreaf="https;//www.w3schools.com/">go to w3school</a>
+         </p>
+         <h2>Newspaper<h1>
+         <ul>
+             <li>Ajit</li>
+             <li>The Tribune</li>
+             <li>The Hindu</li>
+             <li>Danik Bhaskar>/li>
+             </ul>
+             <table style="Width;80%>
+             <tr>
+                 <th>Name</th>
+                 <th>Roll No</th>
+                 <th>Age</th>
+                 </tr>
+                 <tr>
+                     <td>Vanshika </td>
+                     <td>1921112 </td>
+                     <td>19 </td>
+                     
+                     </tr>
+                     <tr>
+                        <td>Tushar </td>
+                        <td>1921113 </td>
+                        <td>20 </td>
+                        
+                       </tr>
+                       <tr>
+                           <td>Pratham </td>
+                           <td>1921114 </td>
+                           <td>20 </td>
+                           
+                         </tr>
+                         <tr>
+                            <td>komal </td>
+                            <td>1921115 </td>
+                            <td> 19 </td>
+                            
+                            </tr>
+                            
+                           </table>
+                         </body>
+                      </html>   
+                            
+                           
+                            
+                       
+                   
+    
