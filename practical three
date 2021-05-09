@@ -1,0 +1,16 @@
+<form>
+  <label> first name; </label>
+  <input type= "text value="first name" id="fname">
+  
+  <label for= "lname">last name; </label>
+  <input type= "text" value= "last name" id="lname">
+  <label for="pwd">password;</label>
+  <input type="password" id="pwd">
+  <input type= "ratio""name="gender" id="male">
+  <label for="m"> male</label>
+  
+  <input type="ratio" name= "gender" id="female">
+  <label for="f">female</label>
+  <input type="checkbox"disabled>
+  <input type="submit">
+  </form>
